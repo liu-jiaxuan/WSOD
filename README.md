@@ -17,3 +17,7 @@ For detailed environment configuration, please refer to "./environment/env.txt" 
     
     The predicted saliency maps will be saved in "./Our_Proposed_Best_Model/pred_maps".
     The metrics results will be saved in "./Our_Proposed_Best_Model/score/result.txt"
+
+
+## 3. single-bounding-box annotations:
+Our proposed annotations for the trainset can be downloaded [here](https://drive.google.com/file/d/1qWFoc8zTbomdXPTl2KX9ablXXFOciD1W/view?usp=sharing).
